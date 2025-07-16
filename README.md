@@ -46,10 +46,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Option 3: Online Demo
-Visit our live demo: [Crop Disease Detection App](https://your-app-url.streamlit.app)
-
-## 📁 Project Structure
 
 ```
 crop-disease-detection/
@@ -265,27 +261,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit**: For the user-friendly web app framework
 - **Agricultural Extension Services**: For domain expertise and validation
 
-## 📞 Support
 
-- 📧 Email: support@cropai.com
-- 💬 Discord: [Join our community](https://discord.gg/cropai)
-- 📖 Documentation: [Full documentation](https://docs.cropai.com)
-- 🐛 Issues: [Report bugs](https://github.com/yourusername/crop-disease-detection/issues)
-
-## 📚 Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{crop_disease_detection,
-  author = {Your Name},
-  title = {AI-Powered Crop Disease Detection for Smallholder Farmers},
-  url = {https://github.com/yourusername/crop-disease-detection},
-  year = {2025}
-}
-```
-
----
 
 **Made with ❤️ for sustainable agriculture and food security**
 
